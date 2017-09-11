@@ -11,4 +11,3 @@ QA leader: Yansen Liu
 Backup Leader: Weicheng Yu
 Security Leader: Weicheng Yu
 Requirement Leader: Yuhao Wu
->>>>>>> upstream/master
