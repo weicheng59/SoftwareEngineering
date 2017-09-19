@@ -13,8 +13,6 @@ Backup Leader: Weicheng Yu
 
 Security Leader: Weicheng Yu
 
-Test : mutiple thread to edit file , may cause conflicts
-
 Requirement Leader: Chen Shou
 
 Implement Leader: Yuhao Wu & Dawei Li
