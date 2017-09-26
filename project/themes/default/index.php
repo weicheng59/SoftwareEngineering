@@ -281,8 +281,11 @@ $().ready(function(){
 <div id="space"></div>
 </div>
 
-<div id="footer"><div id="footer_content">Powered by <strong><a href="http://www.mytinytodo.net/">myTinyTodo</a></strong> 1.4.3 </div></div>
+<!--<div id="footer">
+  <div id="footer_content">Powered by <strong><a href="http://www.mytinytodo.net/">myTinyTodo</a></strong> 1.4.3 </div>
+  </div>-->
 
 </div>
 </body>
-</html><!-- r390 -->
+</html>
+<!-- r390 -->
